@@ -1,0 +1,9 @@
+# Configuration for InfernoAuth
+
+# Session duration in milliseconds
+session-duration: 1000
+
+# Sounds
+sounds:
+  success: ENTITY_PLAYER_LEVELUP
+  failure: ENTITY_VILLAGER_NO
